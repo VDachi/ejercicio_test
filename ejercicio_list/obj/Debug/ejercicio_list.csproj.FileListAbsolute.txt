@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\bin\Debug\ejercicio_list.exe.config
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\bin\Debug\ejercicio_list.exe
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\bin\Debug\ejercicio_list.pdb
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\obj\Debug\ejercicio_list.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\obj\Debug\ejercicio_list.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\obj\Debug\ejercicio_list.exe
+C:\Users\David\source\repos\Ejercicios_bloque_2\ejercicio_list\obj\Debug\ejercicio_list.pdb
